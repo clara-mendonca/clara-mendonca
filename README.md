@@ -19,4 +19,4 @@ Busco desenvolver habilidades práticas através de projetos e estou aberta a op
 - Gerador de tabuada
 
 ## Objetivo
-Conseguir minha primeira oportunidade de estágio na área de tecnologia para continuar evoluindo como desenvolvedora.
+Conquistar minha primeira oportunidade de estágio na área de tecnologia para continuar evoluindo como desenvolvedora.
