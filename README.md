@@ -1,7 +1,7 @@
 # Olá! Eu sou a Clara 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📍 Brasil  
+📍 Recife, PE - Brasil  
 
 ## Sobre mim
 Estou iniciando minha jornada na área de tecnologia e atualmente estudo lógica de programação utilizando linguagem C.
