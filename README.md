@@ -8,7 +8,7 @@ Estou iniciando minha jornada na área de tecnologia e atualmente estudo lógica
 
 Busco desenvolver habilidades práticas através de projetos e estou aberta a oportunidades de estágio na área de TI.
 
-## Tecnologias de aprendizado
+## Tecnologias de aprendizagem
 - Linguagem C
 - Lógica de programação
 - Git e GitHub
